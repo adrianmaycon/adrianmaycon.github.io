@@ -1042,6 +1042,9 @@ a.move-top span{
 }
 
 @media(max-width:1366px) {
+	#logo a {
+		font-size: .5em;
+	}
 	.banner-info-grid h2 {
 		font-size: 3em;
 		line-height: 60px;
@@ -1091,6 +1094,9 @@ a.move-top span{
 }
 
 @media(max-width:1024px) {
+	#logo a {
+		font-size: .5em;
+	}
 	
 	h2.heading,h3.heading {
 		font-size: 40px;
@@ -1152,6 +1158,7 @@ a.move-top span{
 	nav ul {
 		margin-right: 5.5em;
 	}
+
 }
 @media(max-width:800px) {
 	nav ul {
