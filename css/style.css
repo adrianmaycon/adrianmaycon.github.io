@@ -1337,8 +1337,10 @@ a.move-top span{
 	}
 }
 
-@media(max-width:384px) {
-   
+@media(max-width:384px) { 
+	#logo a {
+		font-size: .5em;
+	}
 	.toggle {
 		font-size: 15px;
 	}
@@ -1398,6 +1400,7 @@ a.move-top span{
 }
 
 @media(max-width:320px) {
+	
     .slider-info a.btn {
 		padding: 10px 15px;
 		font-size: 12px;
