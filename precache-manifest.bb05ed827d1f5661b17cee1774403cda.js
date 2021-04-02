@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2379fb4eaf97e2c2ceb999b4f999eca",
+    "revision": "1da4d85c73f99323c2b7f5bfae0fec43",
     "url": "/index.html"
   },
   {
-    "revision": "fb5fd6fbca3ccb9821cf",
+    "revision": "9085ab50c19d21de4da5",
     "url": "/static/css/main.ba03b657.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.215d6e0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb5fd6fbca3ccb9821cf",
-    "url": "/static/js/main.5d566c7e.chunk.js"
+    "revision": "9085ab50c19d21de4da5",
+    "url": "/static/js/main.3193935e.chunk.js"
   },
   {
     "revision": "6981919806c089cef906",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/back-video.466ff79f.jpg"
   },
   {
-    "revision": "f88f46ea5d70dfa3478beb43213c3dda",
-    "url": "/static/media/banner-passos2.f88f46ea.png"
-  },
-  {
     "revision": "0193d72a9f7a72960b8916f7d7291535",
     "url": "/static/media/close.0193d72a.svg"
   },
   {
     "revision": "52cc07edafeb45ddaacfb67d15f844ae",
     "url": "/static/media/estudante.52cc07ed.svg"
+  },
+  {
+    "revision": "56ade9cb268fcbafa71ab66dd394a8fc",
+    "url": "/static/media/logo-cor.56ade9cb.svg"
   },
   {
     "revision": "20fab454a975d12c4d8cd513558b583c",
